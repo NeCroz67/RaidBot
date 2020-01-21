@@ -1,6 +1,6 @@
 {
   "prefix": "/",
-  "token": "NjY5MjgxMjQzMTU3NzU3OTgy.Xidi6Q.a_ReBffqlw36U_3BQPCqWDShBLU",
+  "token": "process.env.TOKEN",
   "channelog": "ID Du Channel",
   "raidauthor": "𝑁𝑒𝑐𝑟𝑜𝑧 [𝐒𝐒 x SMOKE]#7575",
   "botstatus": "NeCroz le bg"
